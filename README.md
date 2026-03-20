@@ -18,3 +18,6 @@ Para criar um link, use [texto](url).
 ## 3. Execução
 
 Uma vez selecionada a tarefa da lista pelo click do mouse, o botão **Começar** iniciará a contagem regressiva para a realização da mesma.
+Para descanso, que não estão relacionadas a qualquer tarefa, escolha as opções disponíveis de descanso.
+
+---------------------------------
