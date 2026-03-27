@@ -12,12 +12,11 @@ Há três tempos. Tempo de foco, descanso curto e descanso longo:
 
 ## 2. Realização de tarefas
 
-HO botão de **Adicionar nova tarefa** que acrescentará a tarefa definida no form na '_lista_' de tarefas.
-Para criar um link, use [texto](url).
+O botão **Adicionar nova tarefa** acrescentará a tarefa definida no form na '_lista_' de tarefas.
 
 ## 3. Execução
 
-Uma vez selecionada a tarefa da lista pelo click do mouse, o botão **Começar** iniciará a contagem regressiva para a realização da mesma.
+Uma vez selecionada a tarefa da lista, no tempo 'Foco', pelo click do mouse, o botão **Começar** iniciará a contagem regressiva para a realização da mesma.
 Para descanso, que não estão relacionadas a qualquer tarefa, escolha as opções disponíveis de descanso.
 
 ---------------------------------
