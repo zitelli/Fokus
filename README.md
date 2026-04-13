@@ -19,4 +19,4 @@ O botão **Adicionar nova tarefa** acrescentará a tarefa definida no form na '_
 Uma vez selecionada a tarefa da lista, no tempo 'Foco', pelo click do mouse, o botão **Começar** iniciará a contagem regressiva para a realização da mesma.
 Para descanso, que não estão relacionadas a qualquer tarefa, escolha as opções disponíveis de descanso.
 
----------------------------------
+---------------------------------------
